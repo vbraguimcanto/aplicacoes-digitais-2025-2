@@ -131,4 +131,4 @@ def downgrade():
 ## Dica
 
 - Sempre **comite os arquivos de migration** junto com o código no Git.  
-- Nunca edite migrations aplicadas em produção — crie uma nova.
+- Nunca edite migrations aplicadas em produção, crie uma nova.
